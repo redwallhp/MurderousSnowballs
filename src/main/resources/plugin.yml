@@ -1,0 +1,4 @@
+name: MurderousSnowballs
+main: io.github.redwallhp.murderoussnowballs.MurderousSnowballs
+description: Snowballs deal damage!
+version: ${project.version}
